@@ -4,8 +4,6 @@
 // Write your JavaScript code.
 var principal = new Principal();
 
-//USERS CODE
-var user = new User();
 var imageUser = (evt) => {
     user.archivo(evt, "imageUser");
 }
